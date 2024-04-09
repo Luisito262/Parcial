@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="BotonCalcular">Calcular</string>
+    <string name="Ingresar_numero">Ingrese el numero</string>
+    <string name="BotonGenerar">Generar</string>
+    <string name="Ingresar_numero_Por_Comas">Ingresar Numeros Por Comas</string>
+    <string name="Texto">Ingrese Un Texto</string>
+    <string-array name="Operacions_units">
+        <item>Promedio De Los Números</item>
+        <item>Los Pares e Impares</item>
+        <item>Ordenar Los Números</item>
+    </string-array>
+
+
+</resources>
